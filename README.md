@@ -17,6 +17,7 @@
 ## Array
 |  |
 | ------- |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/rajapriyan22/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rajapriyan22/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/rajapriyan22/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2899-last-visited-integers](https://github.com/rajapriyan22/Leetcode/tree/master/2899-last-visited-integers) |
@@ -27,10 +28,12 @@
 ## Greedy
 |  |
 | ------- |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/rajapriyan22/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/rajapriyan22/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Sorting
 |  |
 | ------- |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/rajapriyan22/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rajapriyan22/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/rajapriyan22/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Heap (Priority Queue)
