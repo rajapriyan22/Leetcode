@@ -17,6 +17,7 @@
 ## Array
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/rajapriyan22/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/rajapriyan22/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rajapriyan22/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/rajapriyan22/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
@@ -28,11 +29,13 @@
 ## Greedy
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/rajapriyan22/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/rajapriyan22/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/rajapriyan22/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Sorting
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/rajapriyan22/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/rajapriyan22/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rajapriyan22/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/rajapriyan22/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
@@ -40,4 +43,16 @@
 |  |
 | ------- |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/rajapriyan22/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+## Two Pointers
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/rajapriyan22/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/rajapriyan22/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/rajapriyan22/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
