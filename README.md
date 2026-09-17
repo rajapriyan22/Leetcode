@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/rajapriyan22/Leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [3174-clear-digits](https://github.com/rajapriyan22/Leetcode/tree/master/3174-clear-digits) |
 ## Counting
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [2899-last-visited-integers](https://github.com/rajapriyan22/Leetcode/tree/master/2899-last-visited-integers) |
+| [3174-clear-digits](https://github.com/rajapriyan22/Leetcode/tree/master/3174-clear-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -51,6 +53,7 @@
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rajapriyan22/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [3174-clear-digits](https://github.com/rajapriyan22/Leetcode/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
