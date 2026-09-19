@@ -4,11 +4,13 @@
 ## Hash Table
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/rajapriyan22/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rajapriyan22/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/rajapriyan22/Leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## String
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/rajapriyan22/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/rajapriyan22/Leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [3174-clear-digits](https://github.com/rajapriyan22/Leetcode/tree/master/3174-clear-digits) |
 ## Counting
@@ -66,6 +68,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/rajapriyan22/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/rajapriyan22/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Prefix Sum
 |  |
