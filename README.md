@@ -76,4 +76,8 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/rajapriyan22/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/rajapriyan22/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
